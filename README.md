@@ -35,4 +35,4 @@ To be added...
 
 ## Western Governors Collegiate Portfolio
 
-Please view collegiate projects and awards [here](https://github.com/alexaryanfisher/Portfolio_WGU/blob/Main/README.md).
+Please view collegiate projects and awards [here](https://github.com/alexaryanfisher/Portfolio_WGU/blob/master/README.md).
