@@ -7,10 +7,10 @@ If you want to chat with me. Please reach out on my [website](www.alexaryanfishe
 Happy Exploring!
 
 # Portfolio Table of Contents
-* [Python](https://github.com/alexaryanfisher/Portfolio_/blob/master/README.md#python)
-* [SQL](https://github.com/alexaryanfisher/Portfolio_/blob/master/README.md#sql)
-* [Tableau](https://github.com/alexaryanfisher/Portfolio_/blob/master/README.md#tableau)
-* [Western Governors University Collegiate Portfolio](https://github.com/alexaryanfisher/Portfolio_/blob/master/README.md#western-governors-collegiate-portfolio)
+* [Python](https://github.com/alexaryanfisher/Portfolio/blob/master/README.md#python)
+* [SQL](https://github.com/alexaryanfisher/Portfolio/blob/master/README.md#sql)
+* [Tableau](https://github.com/alexaryanfisher/Portfolio/blob/master/README.md#tableau)
+* [Western Governors University Collegiate Portfolio](https://github.com/alexaryanfisher/Portfolio/blob/master/README.md#western-governors-collegiate-portfolio)
 
 
 ## Python
