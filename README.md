@@ -2,7 +2,7 @@ Hi , I am Lex.
 
 Welcome to my Portfolio and feel free to explore my data analytics projects at your leisure.
 
-If you want to chat with me. Please reach out on my [website](www.alexaryanfisher.com) or [LinkedIn](www.linkedin.com/in/alexaryanfisher). 
+If you want to chat with me. Please reach out on my [website]() or [LinkedIn](). 
 
 Happy Exploring!
 
