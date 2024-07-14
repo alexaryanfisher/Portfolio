@@ -1,6 +1,6 @@
 ## Data Exploration in SQL
 #### Project Goal:
-The goal of this project is to import and explore data about COVID-19 Deaths and Vaccinations. Dataset was found within the Our World in Data called [Coronavirus(COVID-19) Deaths](https://ourworldindata.org/covid-deaths)
+The goal of this project is to import and explore data about COVID-19 Deaths and Vaccinations. The dataset was found within the Our World in Data called [Coronavirus(COVID-19) Deaths](https://ourworldindata.org/covid-deaths)
 
 #### Project Deliverables:
 The deliverables of this project will be a SQL file containing various statistics found within the compiled dataset with the use of CTEs, JOINs, WHERE, GROUP BY, and ORDER BY, as well as creations of calculating functions for percentages.
@@ -13,13 +13,13 @@ This project will be completed in 2 days. The following is a tentative schedule:
 
 #### Project Resources:
 The following resources will be used for this project:
-* SQL programming langauge
-* PostGreSQL pgadmin4 environment
+* SQL programming language
+* PostgreSQL pgadmin4 environment
 
 #### Project Challenges:
 The following are some of the challenges that may be encountered during this project:
 
-* Troubleshooting errors that may occur during creation of calculating functions
+* Troubleshooting errors that may occur when creating the calculation functions.
 * Exclusions of null values within the data
 
 #### Project Success Criteria:
